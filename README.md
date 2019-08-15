@@ -91,6 +91,11 @@ This schedule will be updated as the class progresses.
 | - | - | - | (Final Exam) - Poster Presentations on Monday, 9th December, 10 AM to Noon |  
 
 ## Course Policies
+
+**Late Homework/Project Submission** 
+* You have a total of 5 late days
+* Once you use your late days, late submissions will get no points
+
 **General**
 * Keep yourself out of plagarism - Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html)
 * Lecture recordings, audio or video, are not permitted
@@ -102,39 +107,27 @@ This schedule will be updated as the class progresses.
 **Homeworks**
 * Please see the 'homeworks' folder.
 
-**Late Homework/Project Submission** 
-* You have a total of 5 late days
-* Once you use your late days, late submissions will get no points
-
 **Tests** 
 * There will be three tests including one final (see the schedule for dates)
 * Test will be CLOSED book, CLOSED notes, and CLOSED electronics
 * Use of any type of electronics is strictly forbidden during tests
 
 **Attendance**  
-* Attendance will be recorded in every class
-* You will automatically fail the course if you miss more than 5 classes
+* Attendance will be recorded in every class for the first five weeks
+* More than two uninformed absenses in the first five weeks will automatically lead to failing the course
 
 ## Assessment/Grading
 **Grade Composition**
-* 20 points = Homeworks
-* 60 points = Tests
-* 20 points = Project Presentation & Final Report  
+* 10 points = Homeworks
+* 30 points = Tests
+* 20 points = Project Proposal and Initial Report
+* 20 points = Peer-review of proposals and reports
+* 20 points = Project Poster Presentation & Final Report  
 * 1 bonus point to everyone in the class if 80%+ complete the course evaluation survey
 
 **Grading Scheme (from Canvas)**  
-  <img src="syllabus/grading.png" align="middle" width="250"/> 
+<img src="syllabus/grading.png" align="middle" width="250"/> 
 
 ---------------
 ## Students' Projects
-* Richard's "Making Money in Movies: Determining the Profitability of Films" - https://github.com/stantonrm/cs5300/  
-* Jonathan's "Heart Disease Predictor" - https://github.com/jphammy/Heart-Disease-Predictor
-* David's "Rain Predictor" - https://github.com/dvhar/aiproject
-* Trevor's "Predicting the Authenticity of Bank Notes" - https://github.com/Trevor-Parsons/AI-Project---Bank-Note-Authenticiation/
-* David & Michael's "Predicting Serious Mortgage Default" - https://github.com/dgillis91/mortgage_default_model
-* Eva's project on "Producers Guild of America (PGA) Dataset" - https://github.com/emrf2b/CS4300AI_NN_Project
-* James' "Prediction of Student performance on Tests" - https://github.com/jrhii/aiproj
-* Manoj's - "Prediction of Pulsar Star From Radiation" - https://github.com/mjay768/AIProject
-* Weiling's "Market Price Predictors" - https://github.com/Geoffrey-Z/Multivariate-Time-Series-Forecasting-with-LSTMs-in-Keras-for-CORN-SWEET-Terminal-Market-Price/
-* Mitch's "Bone Densitometry Prediction" - https://github.com/mlindsey19/Deep-Learning-dexa/
 
