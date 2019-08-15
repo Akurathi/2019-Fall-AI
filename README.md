@@ -13,9 +13,7 @@
 * Homepage: [https://badriadhikari.github.io](https://badriadhikari.github.io)
 
 ## About the Course
-* This course provides an introduction to artificial intelligence (AI). The list of topics may include search, planning, knowledge-based reasoning, probabilistic inference, machine learning, natural language processing, and practical applications. \[3 credit units\].
-
-* The contents of this course have been re-designed so that there is less overlap with other courses offered in our department. For this reason topics such as "Local Search Algorithms & Optimization Problems" (Chapter 4), "Learning Probabilistic Models, EM Algorithm" (Chapter 20), and "Reinforcement Learning" (Chapter 21), will not be covered in detail in this course. These topics, however, will be covered in the following courses - Deep Learning (CMP SCI 4390/5390), Machine Learning (CMP SCI 4340/5240), Data Mining (CMP SCI 4342), and Evolutionary Computation (CMP SCI 4320).
+* This course provides an introduction to artificial intelligence (AI). The list of topics may include introduction introduction to artificial neural networks, search, planning, knowledge-based reasoning, probabilistic inference, machine learning, natural language processing, and practical applications. \[3 credit units\].
 
 **Prerequisites**  
 * CMP SCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
