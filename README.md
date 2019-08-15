@@ -73,7 +73,7 @@ This schedule will be updated as the class progresses.
 | 14 | 28 | May 02, Thu | Review for Test 3; Project Code and Report Due |
 | 15 | 29 | May 07, Tue | Chapter 24 (Perception) - Guest Lecture by Sri Harsha Akurathi |
 | 15 | 30 | May 09, Thu | Test 3 + Remind about (a) Programming Competition, and (b) Course Evaluation |
-| - | - | - | (Final Exam) - Poster Presentations on Tuesday, 14 May, 05:30 – 07:30 PM |  
+| - | - | - | (Final Exam) - Poster Presentations on Monday, 9th December, 10 AM to Noon |  
 
 ## Course Topics
 **Chapter 1 - Introduction**  
