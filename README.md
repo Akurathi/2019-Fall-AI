@@ -130,4 +130,4 @@ This schedule will be updated as the class progresses.
 
 ---------------
 ## Students' Projects
-
+Will be updated towards the end!
