@@ -13,27 +13,44 @@
 * Homepage: [https://badriadhikari.github.io](https://badriadhikari.github.io)
 
 ## About the Course
-* This course provides an introduction to artificial intelligence (AI). The list of topics may include introduction introduction to artificial neural networks, search, planning, knowledge-based reasoning, probabilistic inference, machine learning, natural language processing, and practical applications. \[3 credit units\].
+* This course provides an introduction to artificial intelligence (AI). The list of topics may include artificial neural networks, search, planning, knowledge-based reasoning, probabilistic inference, machine learning, natural language processing, and practical applications. \[3 credit units\].
 
 **Prerequisites**  
 * CMP SCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
 
 **Upon completing the course students will be able to (Learning Outcomes):** 
+* Use Python, Numpy and Keras to design, train, and evaluate basic feed-forward neural networks
 * Learn an overview of artificial intelligence principles and approaches
 * Learn a basic understanding of the building blocks of AI as presented in terms of intelligent agents
 * Select and evaluate various searching algorithms
 * Understand some of the problems and ideas in the field of natural language processing, perception, and robotics
 * Learn the philosophical foundations of AI and the future of AI
-* Implement various AI algorithms, i.e. write programs
+* Implement various AI algorithms
 
 **Class meets**
-* TR 5:30 PM - 6:45 PM at SSB 218
+* MW 11:00 AM - 12:15 PM at SSB 218
+* Lectures will also be delivered "live" accessible via Zoom (see Canvas page for the link)
 
 **Course Materials**
-* Slides, Project Requirements, Tests, and Samples are inside the relevant folders at the Github location - https://github.com/badriadhikari/2019-Spring-AI/
+* Slides, Homeworks, Project, Tests, and Test Samples are inside the relevant folders at the Github location - https://github.com/badriadhikari/2019-Fall-AI/
 
 **Textbooks**
 * Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="syllabus/book.jpg" align="middle" width="150"/>  
+
+## Course Topics
+**Introduction to Python, Numpy, and Google Colab**
+**Chapter 18 - Learning From Examples** 
+**Designing and Implementing Feed-forward Neural Networks**
+**Chapter 1 - Introduction**  
+**Chapter 2 - Intelligent Agents**  
+**Chapter 3 - Solving Problems by Searching**  
+**Chapter 5 - Adversarial Search**  
+**Chapter 6 - Constraint Satisfaction Problems**  
+**Chapter 7 - Logical Agents**  
+**Chapter 22 - Natural Language Processing**  
+**Chapter 24 - Perception**  
+**Chapter 25 - Robotics**  
+**Chapter 26 - Philosophical Foundations**  
 
 ## Course Schedule
 This schedule will be updated as the class progresses.  
@@ -73,20 +90,6 @@ This schedule will be updated as the class progresses.
 | 15 | 30 | May 09, Thu | Test 3 + Remind about (a) Programming Competition, and (b) Course Evaluation |
 | - | - | - | (Final Exam) - Poster Presentations on Monday, 9th December, 10 AM to Noon |  
 
-## Course Topics
-**Chapter 1 - Introduction**  
-**Chapter 2 - Intelligent Agents**  
-**Chapter 18 - Learning From Examples**  
-**Chapter 3 - Solving Problems by Searching**  
-**Chapter 5 - Adversarial Search**  
-**Chapter 6 - Constraint Satisfaction Problems**  
-**Chapter 7 - Logical Agents**  
-**Chapter 22 - Natural Language Processing**  
-**Chapter 24 - Perception**  
-**Chapter 25 - Robotics**  
-**Chapter 26 - Philosophical Foundations**  
-**Chapter 14 - Probabilistic Reasoning (If time permits)**  
-
 ## Course Policies
 **General**
 * Keep yourself out of plagarism - Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html)
@@ -94,11 +97,7 @@ This schedule will be updated as the class progresses.
 * You are welcome to bring your laptop in class
 
 **Projects**
-* Graduate students will work on their projects alone
-* Undergraduate students can choose to work on a project alone or as a part of a two people team
-* Although project may be completed by two people, grading will be done individually
-* Project grades will be average of (a) grades by instructor (b) peer grades, and (c) external examiner
-* Projects will conclude with (a) a small report (b) code submission, and (c) poster presentation
+* Please see the 'project' folder.
 
 **Homeworks**
 * Homeworks need to be submitted through Canvas
