@@ -125,8 +125,14 @@ This schedule will be updated as the class progresses.
 * 20 points = Project Poster Presentation & Final Report  
 * 1 bonus point to everyone in the class if 80%+ complete the course evaluation survey
 
-**Grading Scheme (from Canvas)**  
-<img src="syllabus/grading.png" align="middle" width="250"/> 
+**Grading Scheme**  
+
+| `Grade` | `Points` | 
+| --- | --- | 
+| A | 100% to 94% | 
+| A- | <94% to 90% | 
+| B+ | <90% to 87% | 
+| B | <87% to 84% | 
 
 ---------------
 ## Students' Projects
