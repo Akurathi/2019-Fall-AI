@@ -18,7 +18,7 @@
 ### Prerequisites  
 * CMP SCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
 
-**Upon completing the course students will be able to (Learning Outcomes):** 
+### Learning Outcomes  
 * Use Python, Numpy and Keras to design, train, and evaluate basic feed-forward neural networks
 * Learn an overview of artificial intelligence principles and approaches
 * Learn a basic understanding of the building blocks of AI as presented in terms of intelligent agents
@@ -27,15 +27,16 @@
 * Learn the philosophical foundations of AI and the future of AI
 * Implement various AI algorithms
 
-**Class meets**
+### Class meets  
 * MW 11:00 AM - 12:15 PM at SSB 218
 * Lectures will also be delivered "live" accessible via Zoom (see Canvas page for the link)
 
-**Course Materials**
-* Slides, Homeworks, Project, Tests, and Test Samples are inside the relevant folders at the Github location - https://github.com/badriadhikari/2019-Fall-AI/
+### Course Materials  
+Slides, Homeworks, Project, Tests, and Test Samples are inside the relevant folders at the Github location - https://github.com/badriadhikari/2019-Fall-AI/
 
-**Textbook**  
-<br/>Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="syllabus/book.jpg" align="middle" width="150"/>  
+### Textbook  
+Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="syllabus/book.jpg" align="middle" width="150"/>  
+
 ## Course Topics
 **Introduction to Python, Numpy, and Google Colab**
 **Chapter 18 - Learning From Examples** 
