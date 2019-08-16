@@ -25,7 +25,7 @@
 * Select and evaluate various searching algorithms
 * Understand some of the problems and ideas in the field of natural language processing, perception, and robotics
 * Learn the philosophical foundations of AI and the future of AI
-* Implement various AI algorithms
+* Implement various AI algorithms such as DFS, BFS, etc.
 
 ### Class meets  
 * MW 11:00 AM - 12:15 PM at SSB 218
