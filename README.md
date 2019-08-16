@@ -98,7 +98,7 @@ This schedule will be updated as the class progresses.
 | - | - | Thanksgiving holiday |
 | 13 | Dec 02, Mon | - |
 | 13 | Dec 04, Wed | - |
-| - | - | (Final Exam) - Poster Presentations on Monday, 9th December, 10 AM to Noon |  
+| - | - | (Final Exam) - Poster Presentations on Monday, 9th December, 10 AM to Noon at SSB 218 |  
 
 ## Course Policies
 
@@ -123,8 +123,8 @@ Please see the 'homeworks' folder.
 * Use of any type of electronics is strictly forbidden during tests
 
 ### Attendance  
-* Attendance will be recorded in every class for the first five weeks
-* More than two uninformed absenses in the first five weeks will automatically lead to failing the course
+* Attendance will be recorded in every class
+* More than 5 uninformed absenses will lead to failing the course
 
 ## Assessment/Grading
 
