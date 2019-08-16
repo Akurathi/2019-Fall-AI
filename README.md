@@ -127,8 +127,8 @@ Please see the 'homeworks' folder.
 * 1 bonus point to everyone in the class if 80%+ complete the course evaluation survey
 
 ### Grading Scheme  
-| `Grade` | `Points` | | `Grade` | `Points` | | `Grade` | `Points` | 
-| --- | --- | | --- | --- | | --- | --- | 
+| `Grade` | `Points` | `Grade` | `Points` | `Grade` | `Points` | 
+| --- | --- | --- | --- | --- | --- | 
 | A | 100% to 94% | | B- | <84% to 80% | | D+ | <70% to 67% |
 | A- | <94% to 90% | | C+ | <80% to 77% | | D | <67% to 64% |
 | B+ | <90% to 87% | | C | <77% to 74% | | D- | <64% to 61% |
