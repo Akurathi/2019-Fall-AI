@@ -15,7 +15,7 @@
 ## About the Course
 * This course provides an introduction to artificial intelligence (AI). The list of topics may include artificial neural networks, search, planning, knowledge-based reasoning, probabilistic inference, machine learning, natural language processing, and practical applications. \[3 credit units\].
 
-**Prerequisites**  
+### Prerequisites  
 * CMP SCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
 
 **Upon completing the course students will be able to (Learning Outcomes):** 
