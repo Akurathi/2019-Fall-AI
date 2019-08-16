@@ -92,32 +92,33 @@ This schedule will be updated as the class progresses.
 
 ## Course Policies
 
-**Late Homework/Project Submission** 
-* You have a total of 5 late days
-* Once you use your late days, late submissions will get no points
-
-**General**
+### General Policies
 * Keep yourself out of plagarism - Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html)
 * Lecture recordings, audio or video, are not permitted
 * You are welcome to bring your laptop in class
 
-**Projects**
-* Please see the 'project' folder.
+### Late Homework/Project Submission  
+* You have a total of 5 late days
+* Once you use your late days, late submissions will get no points
 
-**Homeworks**
-* Please see the 'homeworks' folder.
+### Projects
+Please see the 'project' folder.
 
-**Tests** 
+### Homeworks
+Please see the 'homeworks' folder.
+
+### Tests 
 * There will be three tests including one final (see the schedule for dates)
 * Test will be CLOSED book, CLOSED notes, and CLOSED electronics
 * Use of any type of electronics is strictly forbidden during tests
 
-**Attendance**  
+### Attendance  
 * Attendance will be recorded in every class for the first five weeks
 * More than two uninformed absenses in the first five weeks will automatically lead to failing the course
 
 ## Assessment/Grading
-**Grade Composition**
+
+### Grade Composition  
 * 10 points = Homeworks
 * 30 points = Tests
 * 20 points = Project Proposal and Initial Report
@@ -125,8 +126,7 @@ This schedule will be updated as the class progresses.
 * 20 points = Project Poster Presentation & Final Report  
 * 1 bonus point to everyone in the class if 80%+ complete the course evaluation survey
 
-**Grading Scheme**  
-
+### Grading Scheme  
 | `Grade` | `Points` | | `Grade` | `Points` | | `Grade` | `Points` | 
 | --- | --- | | --- | --- | | --- | --- | 
 | A | 100% to 94% | | B- | <84% to 80% | | D+ | <70% to 67% |
