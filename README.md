@@ -34,8 +34,8 @@
 **Course Materials**
 * Slides, Homeworks, Project, Tests, and Test Samples are inside the relevant folders at the Github location - https://github.com/badriadhikari/2019-Fall-AI/
 
-**Textbooks**
-* Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="syllabus/book.jpg" align="middle" width="150"/>  
+**Textbook**
+Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="syllabus/book.jpg" align="middle" width="150"/>  
 
 ## Course Topics
 **Introduction to Python, Numpy, and Google Colab**
