@@ -98,7 +98,7 @@ This schedule will be updated as the class progresses.
 | - | - | Thanksgiving holiday |
 | 13 | Dec 02, Mon | - |
 | 13 | Dec 04, Wed | - |
-| - | - | (Final Exam) - Poster Presentations on Monday, 9th December, 10 AM to Noon at SSB 218 |  
+| - | - | Final Exam - Poster Presentations - Monday, December 9 - 10AM to Noon at SSB218 |  
 
 ## Course Policies
 
