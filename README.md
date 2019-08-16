@@ -38,15 +38,25 @@ Slides, Homeworks, Project, Tests, and Test Samples are inside the relevant fold
 Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="syllabus/book.jpg" align="middle" width="150"/>  
 
 ## Course Topics
+
+### Module I - Learning From Examples  
 **Introduction to Python, Numpy, and Google Colab**  
 **Chapter 18 - Learning From Examples**   
 **Designing and Implementing Feed-forward Neural Networks**  
+
+### Module II - Introduction to AI  
 **Chapter 1 - Introduction**  
 **Chapter 2 - Intelligent Agents**  
+
+### Module III - Problem Solving using AI  
 **Chapter 3 - Solving Problems by Searching**  
 **Chapter 5 - Adversarial Search**  
-**Chapter 6 - Constraint Satisfaction Problems**  
+**Chapter 6 - Constraint Satisfaction Problems**
+
+### Module IV - Knowledge and Reasoning  
 **Chapter 7 - Logical Agents**  
+
+### Module V - Applications and Philosophical Foundations  
 **Chapter 22 - Natural Language Processing**  
 **Chapter 24 - Perception**  
 **Chapter 25 - Robotics**  
