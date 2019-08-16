@@ -77,7 +77,7 @@ This schedule will be updated as the class progresses.
 | 04 | Sep 09, Mon | - |
 | 04 | Sep 11, Wed | - |
 | 05 | Sep 16, Mon | Revision for Test 1 |
-| 05 | Sep 18, Wed | Test 1 (Covers Chapter 18) |
+| 05 | Sep 18, Wed | **Test 1** (Covers Chapter 18) |
 | 06 | Sep 23, Mon | - |
 | 06 | Sep 25, Wed | - |
 | 07 | Sep 30, Mon | - |
@@ -95,11 +95,11 @@ This schedule will be updated as the class progresses.
 | 12 | Nov 11, Mon | - |
 | 12 | Nov 13, Wed | - |
 | 12 | Nov 18, Mon | Revision for Test 2 |
-| 12 | Nov 20, Wed | Test 2 (Covers all remaining chapters) |
+| 12 | Nov 20, Wed | **Test 2** (Covers all remaining chapters) |
 | - | - | Thanksgiving holiday |
 | 13 | Dec 02, Mon | - |
 | 13 | Dec 04, Wed | - |
-| - | - | Final Exam - Poster Presentations - Monday, December 9 - 10AM to Noon at SSB218 |  
+| - | - | Final Exam - **Poster Presentations - Monday, December 9 - 10AM to Noon at SSB218** |  
 
 ## Course Policies
 
