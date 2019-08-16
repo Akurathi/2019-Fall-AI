@@ -38,9 +38,9 @@ Slides, Homeworks, Project, Tests, and Test Samples are inside the relevant fold
 Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="syllabus/book.jpg" align="middle" width="150"/>  
 
 ## Course Topics
-**Introduction to Python, Numpy, and Google Colab**
-**Chapter 18 - Learning From Examples** 
-**Designing and Implementing Feed-forward Neural Networks**
+**Introduction to Python, Numpy, and Google Colab**  
+**Chapter 18 - Learning From Examples**   
+**Designing and Implementing Feed-forward Neural Networks**  
 **Chapter 1 - Introduction**  
 **Chapter 2 - Intelligent Agents**  
 **Chapter 3 - Solving Problems by Searching**  
