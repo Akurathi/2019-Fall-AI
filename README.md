@@ -43,6 +43,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="syllabu
 **Introduction to Python, Numpy, and Google Colab**  
 **Chapter 18 - Learning From Examples**   
 **Designing and Implementing Feed-forward Neural Networks**  
+**Explainable AI**  
 
 ### Module II - Introduction to AI  
 **Chapter 1 - Introduction**  
