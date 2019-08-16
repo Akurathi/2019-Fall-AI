@@ -65,40 +65,40 @@ Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="syllabu
 ## Course Schedule
 This schedule will be updated as the class progresses.  
 
-| `Week` | `Day` | `Date` | `Topic` | 
-| --- | --- | --- | --- | 
-| 01 | 01 | Jan 22, Tue | Syllabus; Chapter 1 - Slide 1 to 28 |
-| 01 | 02 | Jan 24, Thu | Chapter 1 - Slide 29 to END; Chapter 2 - Slide 1 to 10 |
-| 02 | 03 | Jan 29, Tue | Chapter 2 - Slide 11 to END; Chapter 18 - Slide 1 to 24 |
-| 02 | 04 | Jan 31, Thu | Chapter 18 - Slide 25 to 34 |
-| 03 | 05 | Feb 05, Tue | Syllabus; Chapter 18 - Slide 24 (activity); Chapter 18 - Slide 35 to 47 |
-| 03 | 06 | Feb 07, Thu | Chapter 18 - Slide 48 to END; Chapter 3 - Slide 1 to 12 |
-| 04 | 07 | Feb 12, Tue | Chapter 3 - Slide 13 to 48 |
-| 04 | 08 | Feb 14, Thu | Chapter 3 - Slide 49 to 72 |
-| 05 | 09 | Feb 19, Tue | Review Questions for TEST 1 |
-| 05 | 10 | Feb 21, Thu | TEST 1 [Covering Chapter 1, 2, 18 & 3 (upto BFS)]|
-| 06 | 11 | Feb 26, Tue | Chapter 3 - Slide 73 to 79 |
-| 06 | 12 | Feb 28, Thu | Outline of Project Requirements; Chapter 3 - Slide 80 to END |
-| 07 | 13 | Mar 05, Tue | Chapter 5 - Slide 1 to 17 |
-| 07 | 14 | Mar 07, Thu | Discussion of Project Ideas |
-| 08 | 15 | Mar 12, Tue | Chapter 5 - Slide 18 to END (Alhpa-beta pruning) |
-| 08 | 16 | Mar 14, Thu | Project Lab at "Clark Hall - 00400" |
-| 09 | 17 | Mar 19, Tue | Chapter 6 - Slide 1 to 26 |
-| 09 | 18 | Mar 21, Thu | Project Lab |
-| - | - | - | Spring Recess |
-| 10 | 19 | Apr 02, Tue | Review Questions for TEST 2 |
-| 10 | 20 | Apr 04, Thu | Test 2 [Covering Ch3 (slide 73 onwards), Ch5, and Ch6 (upto slide 26)] |
-| 11 | 21 | Apr 09, Tue | No Class |
-| 11 | 22 | Apr 11, Thu | Chapter 6 - Slide 27 to END; Chapter 7 - Slide 1 to 10 |
-| 12 | 23 | Apr 16, Tue | Chapter 7 - Slide 11 to 21 |
-| 12 | 24 | Apr 18, Thu | Chapter 7 - Slide 22 to END; Chapter 22 - Slide 1 to 5 |
-| 13 | 25 | Apr 23, Tue | Chapter 22 - Slide 6 to 19 |
-| 13 | 26 | Apr 25, Thu | Chapter 22 - Slide 20 to END; Chapter 26 - Slide 1 to 10 |
-| 14 | 27 | Apr 30, Tue | Chapter 26 - Slide 11 to END; Chapter 25 - Slide 1 to 16 |
-| 14 | 28 | May 02, Thu | Review for Test 3; Project Code and Report Due |
-| 15 | 29 | May 07, Tue | Chapter 24 (Perception) - Guest Lecture by Sri Harsha Akurathi |
-| 15 | 30 | May 09, Thu | Test 3 + Remind about (a) Programming Competition, and (b) Course Evaluation |
-| - | - | - | (Final Exam) - Poster Presentations on Monday, 9th December, 10 AM to Noon |  
+| `Week` | `Date` | `Topic` | 
+| --- | --- | --- | 
+| 01 | Aug 19, Mon | Syllabus; Chapter 1 - Slide 1 to 28 |
+| 01 | Aug 21, Wed | - |
+| 02 | Aug 26, Mon | - |
+| 02 | Aug 28, Wed | - |
+| - | - | Labor Day | 
+| 03 | Sep 04, Wed | - |
+| 04 | Sep 09, Mon | - |
+| 04 | Sep 11, Wed | - |
+| 05 | Sep 16, Mon | - |
+| 05 | Sep 18, Wed | - |
+| 06 | Sep 23, Mon | - |
+| 06 | Sep 25, Wed | - |
+| 07 | Sep 30, Mon | - |
+| 07 | Oct 02, Wed | - |
+| 08 | Oct 07, Mon | - |
+| 08 | Oct 09, Wed | - |
+| 09 | Oct 14, Mon | - |
+| 09 | Oct 16, Wed | - |
+| 10 | Oct 21, Mon | - |
+| 10 | Oct 23, Wed | - |
+| 11 | Oct 28, Mon | - |
+| 11 | Oct 30, Wed | - |
+| 12 | Nov 04, Mon | - |
+| 12 | Nov 06, Wed | - |
+| 12 | Nov 11, Mon | - |
+| 12 | Nov 13, Wed | - |
+| 12 | Nov 18, Mon | - |
+| 12 | Nov 20, Wed | - |
+| - | - | Thanksgiving holiday |
+| 13 | Dec 02, Mon | - |
+| 13 | Dec 04, Wed | - |
+| - | - | (Final Exam) - Poster Presentations on Monday, 9th December, 10 AM to Noon |  
 
 ## Course Policies
 
