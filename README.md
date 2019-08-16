@@ -131,10 +131,13 @@ Please see the 'homeworks' folder.
 
 ### Grade Composition  
 * 10 points = Homeworks
-* 30 points = Tests
-* 20 points = Project Proposal and Initial Report
-* 20 points = Peer-review of proposals and reports
-* 20 points = Project Poster Presentation & Final Report  
+* 30 points = Test 1 and Test 2
+* 10 points = Project Proposal (with review comments)
+* 10 points = Initial Report (with review comments)
+* 5 points = Peer-review of proposals
+* 5 points = Peer-review of initial reports
+* 10 points = Project Poster Presentation
+* 20 points = Final Report  
 * 1 bonus point to everyone in the class if 80%+ complete the course evaluation survey
 
 ### Grading Scheme  
