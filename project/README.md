@@ -25,7 +25,7 @@
 1. Entend the model to investigate the performance of various feedforward neural network architectures
 1. Study, investigate and discuss "what", "how", and "why" your model makes predictions
 
-## Proposal Evaluation Criterion
+# Proposal Evaluation Criterion
 1. [2 points] Effort to study the importance of each input feature (data analysis)
     - For example, plot each input feature against output and document your findings
 1. [2 points] Effort to compare the results of the neural network with a linear regression or logistic regression model?
@@ -41,7 +41,7 @@
    - Someone else must be able to reproduce all your results
 1. [4 points] Effort to document all the steps above
 
-## Initial Report Evaluation Criterion
+# Initial Report Evaluation Criterion
 1. [2 points] Effort to study the importance of each input feature (data analysis)
     - For example, plot each input feature against output and document your findings
 1. [2 points] Effort to compare the results of the neural network with a linear regression or logistic regression model?
