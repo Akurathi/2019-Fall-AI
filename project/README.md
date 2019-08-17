@@ -6,13 +6,6 @@
 # Project Phases
 | `Phase` | `Deadline` | `What to Submit?` |
 | -- | -- | -- |
-| Proposal | -- | A proposal document as outlined in the proposal template along with the following: <ol><li>two set of comments from peers</li><li>your plans to address the comments</li><li>two set of your comment to your peers</li></ol> See the proposal template & peer review tempate |
-| Initial Report | -- | A report document as outlined in the report template along with (a) two set of comments from peers, and (b) two set of your comment to your peers ; please see the initlal report template |
-| Final Report | -- | A report document as outlined in the report template along with (a) two set of comments from peers, and (b) two set of your comment to your peers ; please see the initlal report template |
-
-* 10 points = Project Proposal (with review comments)
-* 10 points = Initial Report (with review comments)
-* 5 points = Peer-review of proposals
-* 5 points = Peer-review of initial reports
-* 10 points = Project Poster Presentation
-* 20 points = Final Report  
+| Proposal | -- | A proposal (PDF) along with the following: <ol><li>two set of comments from peers</li><li>your plans to address the comments</li><li>two set of your comment to your peers</li></ol> See "proposal_outline.txt" & "proposal_peer_review_outline.txt" |
+| Initial Report | -- | A report (PDF) as along with the following <ol><li>two set of comments from peers</li><li>your plans to address the comments</li><li>two set of your comment to your peers</li></ol> See "report_outline.txt" & "report_peer_review_outline.txt" |
+| Final Report | -- | A report (PDF) addressing all the comments received (along with rebuttals, if any) |
