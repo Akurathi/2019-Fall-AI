@@ -5,7 +5,7 @@
 
 # Project Phases
 | `Phase` | `Deadline` | `Description` | `What to Submit?` |
-| -- | -- | -- |
+| -- | -- | -- | -- |
 | Prepare Proposal | -- | Prepare a proposal referring to the "proposal_outline.txt" document | N/A |
 | Find Peers | -- | Find at least two peers to review your proposal and Send requests to review | N/A |
 | Obtain Peer Reviews | -- | Review others' proposals referring to the "proposal_peer_review_outline.txt" and Obtain peer reviews from others | N/A |
