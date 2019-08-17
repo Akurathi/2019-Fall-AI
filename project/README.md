@@ -62,3 +62,8 @@
 
 # Poster and Final Report Evaluation Criterion
 Poster and Final report will be evaluated based on all the criteria above.
+
+# Example 
+Heart disease prediction using the Heart Disease UCI dataset at https://www.kaggle.com/ronitf/heart-disease-uci
+<img src="ai-project.png" align="middle" width="900"/>
+
