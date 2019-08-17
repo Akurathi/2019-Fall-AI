@@ -1,8 +1,8 @@
 # Project Expectations
 * All students will work on their projects individually (i.e. group submissions are not allowed)
-* Grades of Poster presentation and Final report will be average of (a) grades by the course instructor (b) peer grades, and (c) grades by external visitor/s from industry
 * Proposal, Initial Report, and Final Report must be prepared using <a href="https://www.overleaf.com/">Overleaf</a> or any other LaTeX editor.
 * Your peers who review your report should be different from the peers who review your proposal
+* Grades of Poster presentation and Final report will be average of (a) grades by the course instructor (b) peer grades, and (c) grades by external visitor/s from industry
 
 # Project Phases
 | `Phase` | `Description` | `What to Submit?` | `Submission Deadline` |
@@ -41,7 +41,7 @@
    - Someone else must be able to reproduce all your results
 1. [4 points] Effort to document all the steps above
 
-# Initial Report Evaluation Criterion
+# Report Evaluation Criterion
 1. [2 points] Effort to study the importance of each input feature (data analysis)
     - For example, plot each input feature against output and document your findings
 1. [2 points] Effort to compare the results of the neural network with a linear regression or logistic regression model?
@@ -49,7 +49,7 @@
     - Document your performance comparison
 1. [2 points] Effort to study performance difference when linear activation is used instead of sigmoid (and vice versa)?
    - How does your performance change when linear activations are used instead of sigmoid, in the last neuron and all other neurons.
-1. [2 points] Effort to evaluate your predictions
+1. [2 points] Effort to evaluate your predictions (using Precision, Recall, MAE, MSE, etc.)
 1. [4 points] Effort to code a function that represents your model
    - After your model is trained, read all the weights, and build your own function/method that serves as the model
    - Verify that predictions you obtain are same as the one you obtained using your trained model
