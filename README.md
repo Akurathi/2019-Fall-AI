@@ -8,7 +8,7 @@
 ## About the Instructor
 * Name: Badri Adhikari
 * Email: adhikarib@umsl.edu (Please use your university email account to send me emails)
-* Office Hours: Mondays from 12:30 PM to 2 PM & Wednesdays from 12:30 PM to 2 PM
+* Office Hours: Mondays and Wednesdays from 12:30 PM to 2 PM (after the class)
 * Office Location: 312 ESH
 * Homepage: [https://badriadhikari.github.io](https://badriadhikari.github.io)
 
