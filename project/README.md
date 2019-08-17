@@ -61,4 +61,4 @@
 1. [2 * 2.5 points] Effort to provide clear and meaninful comments to others' reports
 
 # Poster and Final Report Evaluation Criterion
-Poster and Final reports will be evaluated based on all the criteria above.
+Poster and Final report will be evaluated based on all the criteria above.
