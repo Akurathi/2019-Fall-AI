@@ -10,7 +10,7 @@
 | Prepare Proposal | Prepare a proposal addressing the "proposal evaluation criterion" | N/A | N/A |
 | Find Peers | Find at least two peers to review your proposal and Send requests to review | N/A | N/A |
 | Obtain Peer Reviews | Review others' proposals referring to "proposal evaluation criterion" and Obtain peer reviews from others | N/A | N/A |
-| Submit Proposal (in Canvas)| Prepare proposal along with the following: <ol><li>two set of comments from peers</li><li>your plans to address the comments</li><li>two set of your comment to your peers</li></ol> | A PDF of your Overleaf proposal | ? |
+| Submit Proposal (in Canvas)| Prepare proposal along with the following: <ol><li>two set of comments from peers</li><li>your plans to address the comments</li><li>two set of your comment to your peers</li></ol> | A PDF of your Overleaf proposal | Oct  2, 2019 |
 | Prepare Initial Report | Prepare a report addressing the "initial report evaluation criterion" | N/A | N/A |
 | Find Peers | Find at least two peers to review your proposal and Send requests to review | N/A | N/A |
 | Obtain Peer Reviews |Review others' proposals referring to "initial report evaluation criterion" and Obtain peer reviews from others | N/A | N/A |
