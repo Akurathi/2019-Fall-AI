@@ -55,6 +55,7 @@
 1. [2 points] Effort to reduce input features
 1. [2 points] Effort to develop a 'reproducible' code
    - Someone else must be able to reproduce all your results
-1. [4 points] Effort to document all the steps above in Overleaf
+1. [2 points] Effort to document the challenges faced during the project
+1. [2 points] Effort to document all the steps above in Overleaf
 
  
