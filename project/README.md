@@ -6,7 +6,7 @@
 # Project Phases
 | `Phase` | `Deadline` | `What to Submit?` |
 | -- | -- | -- |
-| Proposal | -- | A proposal document as outlined in the proposal template along with (a) two set of comments from peers, (b) your plans to address the comments, and (c) two set of your comment to your peers; please see the proposal template & peer review tempate |
+| Proposal | -- | A proposal document as outlined in the proposal template along with the following: <ol><li>two set of comments from peers</li><li>your plans to address the comments</li><li>two set of your comment to your peers</li></ol> See the proposal template & peer review tempate |
 | Initial Report | -- | A report document as outlined in the report template along with (a) two set of comments from peers, and (b) two set of your comment to your peers ; please see the initlal report template |
 | Final Report | -- | A report document as outlined in the report template along with (a) two set of comments from peers, and (b) two set of your comment to your peers ; please see the initlal report template |
 
