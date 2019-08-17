@@ -49,11 +49,11 @@
     - Document your performance comparison
 1. [2 points] Effort to study performance difference when linear activation is used instead of sigmoid (and vice versa)?
    - How does your performance change when linear activations are used instead of sigmoid, in the last neuron and all other neurons.
-1. [2 points] Effort to evaluate your predictions (using Precision, Recall, MAE, MSE, etc.)
+1. [4 points] Effort to evaluate your predictions (using Precision, Recall, MAE, MSE, etc.)
 1. [4 points] Effort to code a function that represents your model
    - After your model is trained, read all the weights, and build your own function/method that serves as the model
    - Verify that predictions you obtain are same as the one you obtained using your trained model
-1. [4 points] Effort to develop a 'reproducible' code
+1. [2 points] Effort to develop a 'reproducible' code
    - Someone else must be able to reproduce all your results
 1. [4 points] Effort to document all the steps above
 
