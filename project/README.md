@@ -19,3 +19,42 @@
 | Prepare Poster | A poster highlighting the problem, diagrams, your results, plots, etc. |  N/A | N/A | 
 | Present Poster and Report | Bring a printed copy of your Final Report and your Poster to the final exam | Prints | Dec 9, 2019 | 
 
+# Project Objectives
+1. Develop a logistic regression model (for classification) or linear regression model (for regression) for a pre-cleaned tabular dataset with at least a 1000 rows and at least 3 input features (columns) using existing libraries such as Keras and Tensorflow.
+1. Implement a Python function that serves as the model.
+1. Entend the model to investigate the performance of various feedforward neural network architectures
+1. Study, investigate and discuss "what", "how", and "why" your model makes predictions
+
+## Proposal Evaluation Criterion
+1. [2 points] Effort to study the importance of each input feature (data analysis)
+    - For example, plot each input feature against output and document your findings
+1. [2 points] Effort to compare the results of the neural network with a linear regression or logistic regression model?
+    - Start with a basic model and then grow your model into a multi-layered model
+    - Document your performance comparison
+1. [2 points] Effort to study performance difference when linear activation is used instead of sigmoid (and vice versa)?
+   - How does your performance change when linear activations are used instead of sigmoid, in the last neuron and all other neurons.
+1. [2 points] Effort to evaluate your predictions
+1. [4 points] Effort to code a function that represents your model
+   - After your model is trained, read all the weights, and build your own function/method that serves as the model
+   - Verify that predictions you obtain are same as the one you obtained using your trained model
+1. [4 points] Effort to develop a 'reproducible' code
+   - Someone else must be able to reproduce all your results
+1. [4 points] Effort to document all the steps above
+
+## Initial Report Evaluation Criterion
+1. [2 points] Effort to study the importance of each input feature (data analysis)
+    - For example, plot each input feature against output and document your findings
+1. [2 points] Effort to compare the results of the neural network with a linear regression or logistic regression model?
+    - Start with a basic model and then grow your model into a multi-layered model
+    - Document your performance comparison
+1. [2 points] Effort to study performance difference when linear activation is used instead of sigmoid (and vice versa)?
+   - How does your performance change when linear activations are used instead of sigmoid, in the last neuron and all other neurons.
+1. [2 points] Effort to evaluate your predictions
+1. [4 points] Effort to code a function that represents your model
+   - After your model is trained, read all the weights, and build your own function/method that serves as the model
+   - Verify that predictions you obtain are same as the one you obtained using your trained model
+1. [4 points] Effort to develop a 'reproducible' code
+   - Someone else must be able to reproduce all your results
+1. [4 points] Effort to document all the steps above
+
+ 
