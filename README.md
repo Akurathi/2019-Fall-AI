@@ -68,7 +68,7 @@ This schedule will be updated as the class progresses.
 
 | `Week` | `Date` | `Topic` | 
 | --- | --- | --- | 
-| 01 | Aug 19, Mon | Syllabus; Chapter 1 - Slide 1 to 28 |
+| 01 | Aug 19, Mon | Syllabus; Python Tutorial |
 | 01 | Aug 21, Wed | - |
 | 02 | Aug 26, Mon | - |
 | 02 | Aug 28, Wed | - |
