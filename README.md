@@ -1,4 +1,4 @@
-<img src="syllabus/umsl.png" align="middle" width="400"/>
+<img src="supporting_files/umsl.png" align="middle" width="400"/>
 
 ## Artificial Intelligence - CMP SCI 4300/5300
 ## Syllabus - 2019 Fall
@@ -35,7 +35,7 @@
 Slides, Homeworks, Project, Tests, and Test Samples are inside the relevant folders at the Github location - https://github.com/badriadhikari/2019-Fall-AI/
 
 ### Textbook  
-Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="syllabus/book.jpg" align="middle" width="150"/>  
+Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="supporting_files/book.jpg" align="middle" width="150"/>  
 
 ## Course Topics
 
