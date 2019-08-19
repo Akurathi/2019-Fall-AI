@@ -119,7 +119,7 @@ Please see the 'project' folder.
 Please see the 'homeworks' folder.
 
 ### Tests 
-* There will be three tests including one final (see the schedule for dates)
+* There will be two tests including one final (see the schedule for dates)
 * Test will be CLOSED book, CLOSED notes, and CLOSED electronics
 * Use of any type of electronics is strictly forbidden during tests
 
