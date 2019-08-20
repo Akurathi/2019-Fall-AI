@@ -69,7 +69,7 @@ This schedule will be updated as the class progresses.
 | `Week` | `Date` | `Topic` | 
 | --- | --- | --- | 
 | 01 | Aug 19, Mon | Syllabus; Python Tutorial |
-| 01 | Aug 21, Wed | - |
+| 01 | Aug 21, Wed | Numpy Tutorial |
 | 02 | Aug 26, Mon | - |
 | 02 | Aug 28, Wed | - |
 | - | - | Labor Day | 
