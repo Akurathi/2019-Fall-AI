@@ -1,4 +1,4 @@
-If you get **"Sorry, something went wrong. Reload?"** error in Github, use **[https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)**
+Tip: If you get **"Sorry, something went wrong. Reload?"** error in Github, use **[https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)**
 
 1. Syllabus Review
 1. Introduction to [Google Colab](https://colab.research.google.com)
