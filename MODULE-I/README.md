@@ -1,7 +1,7 @@
 1. Syllabus Review
 1. Introduction to [Google Colab](https://colab.research.google.com)
 1. Get started with Google Colaboratory - [3 minute video](https://www.youtube.com/watch?v=inN8seMm7UI)
-1. Python Numpy Tutorial at [Google Colab](https://colab.research.google.com/drive/1TOOqWylczZ3V6NkPhWiHmWb4sXbBLagg)
+1. Python Numpy Tutorial [Python Numpy Tutorial.ipynb](https://colab.research.google.com/drive/1TOOqWylczZ3V6NkPhWiHmWb4sXbBLagg)
 1. Chapter 18 - [Learning From Examples](https://docs.google.com/presentation/d/1LHKk29tAs1_sFZrSUmuXVpttRdFdlWbRc67eU2lhH3E/edit?usp=sharing)
    1. Univariate Linear Regression - [Univariate_Linear_Regression.ipynb](https://colab.research.google.com/drive/17dm9D37xNuUWQQ9ddyxlY38bLUckRcZ2)
    1. Linear Regression - [Linear_Regression_with_Two_Input_Variables.ipynb](https://colab.research.google.com/drive/1pZm0olb0T_0gBAO_yGLwteg8mGvpwPq-)
