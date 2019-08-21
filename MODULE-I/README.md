@@ -7,6 +7,7 @@
    1. Linear Regression - Notebook at Colab
    1. Logistic Regression (Classification) - Notebook at Colab
 1. Designing and Implementing Feed-forward Neural Networks
+   1. Suggested reading - [A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 1. Explainable AI
 
 ---------------
