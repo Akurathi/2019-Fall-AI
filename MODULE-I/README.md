@@ -1,3 +1,6 @@
+Tip: If you get **"Sorry, something went wrong. Reload?"** error in Github, use **[https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)**
+--------------
+
 1. Syllabus Review
 1. Introduction to [Google Colab](https://colab.research.google.com)
 1. Get started with Google Colaboratory - [3 minute video](https://www.youtube.com/watch?v=inN8seMm7UI)
@@ -10,6 +13,3 @@
 1. Designing and Implementing Feed-forward Neural Networks
    1. Suggested reading - [A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 1. Explainable AI
-
----------------
-Tip: If you get **"Sorry, something went wrong. Reload?"** error in Github, use **[https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)**
