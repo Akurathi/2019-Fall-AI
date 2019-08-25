@@ -1,6 +1,5 @@
-## 
-fasdfas
 When opening .ipynb files Tip: If you get **"Sorry, something went wrong. Reload?"** error in Github, use **[https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)**  
+
 --------------  
 
 1. Syllabus Review
@@ -15,3 +14,4 @@ When opening .ipynb files Tip: If you get **"Sorry, something went wrong. Reload
 1. Designing and Implementing Feed-forward Neural Networks
    1. Suggested reading - [A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 1. Explainable AI
+
