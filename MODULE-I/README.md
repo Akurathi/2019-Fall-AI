@@ -1,4 +1,4 @@
-Tip: When opening .ipynb files if you get **`Sorry, something went wrong. Reload?`** error in Github, use **[https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)**  
+**Tip**: When opening .ipynb files if you get **`Sorry, something went wrong. Reload?`** error in Github, use **[https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)**  
 
 --------------  
 
