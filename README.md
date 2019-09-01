@@ -98,8 +98,8 @@ This schedule will be updated as the class progresses.
 | 12 | Nov 20, Wed | **Test 2** (Covers all remaining chapters) |
 | - | - | Thanksgiving holiday |
 | 13 | Dec 02, Mon | - |
-| 13 | Dec 04, Wed | ** Final Exam - Poster Presentations - Wednesday, December 04 - 10AM to Noon at SSB218**  |
-| - | Final Exam | ** (probably prepone) Poster Presentations - Monday, December 9 - 10AM to Noon at SSB218** |  
+| 13 | Dec 04, Wed | **Final Exam - Poster Presentations - Wednesday, December 04 - 10AM to Noon at SSB218**  |
+| - | Final Exam | **(probably prepone) Poster Presentations - Monday, December 9 - 10AM to Noon at SSB218** |  
 
 ## Course Policies
 
