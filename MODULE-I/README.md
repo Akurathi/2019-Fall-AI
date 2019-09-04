@@ -12,8 +12,8 @@
    1. Univariate Linear Regression - [Univariate_Linear_Regression.ipynb](https://colab.research.google.com/drive/17dm9D37xNuUWQQ9ddyxlY38bLUckRcZ2)
    1. Linear Regression - [Linear_Regression_with_Two_Input_Variables.ipynb](https://colab.research.google.com/drive/1pZm0olb0T_0gBAO_yGLwteg8mGvpwPq-)
    1. Logistic Regression (Classification) - [Logistic_Regression_Example.ipynb](https://colab.research.google.com/drive/194fUJy4RrAAcbYp_QDsF6xj2sYXpscAe)
-1. Chapter 18 Questions for Test 1
 1. Designing and Implementing Feed-forward Neural Networks
    1. Suggested reading - [A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
+1. Chapter 18 Questions for Test 1
 1. Explainable AI
 
