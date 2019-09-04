@@ -73,7 +73,7 @@ This schedule will be updated as the class progresses.
 | 02 | Aug 26, Mon | Matplotlib, Chapter 18 (slides 1 to 29) |
 | 02 | Aug 28, Wed | Chapter 18 (slides 30 to 35) |
 | - | - | Labor Day | 
-| 03 | Sep 04, Wed | - |
+| 03 | Sep 04, Wed | Chapter 18 (slides 36 to END) |
 | 04 | Sep 09, Mon | - |
 | 04 | Sep 11, Wed | - |
 | 05 | Sep 16, Mon | Revision for Test 1 |
