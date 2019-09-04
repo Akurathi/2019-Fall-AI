@@ -71,7 +71,7 @@ This schedule will be updated as the class progresses.
 | 01 | Aug 19, Mon | Syllabus; Python Tutorial |
 | 01 | Aug 21, Wed | Numpy Tutorial |
 | 02 | Aug 26, Mon | Matplotlib, Chapter 18 (slides 1 to 29) |
-| 02 | Aug 28, Wed | - |
+| 02 | Aug 28, Wed | Chapter 18 (slides 30 to 35) |
 | - | - | Labor Day | 
 | 03 | Sep 04, Wed | - |
 | 04 | Sep 09, Mon | - |
