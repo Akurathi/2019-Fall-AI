@@ -12,6 +12,8 @@
    1. Logistic Regression (Classification) - [Logistic_Regression_Example.ipynb](https://colab.research.google.com/drive/194fUJy4RrAAcbYp_QDsF6xj2sYXpscAe)
 1. Designing and Implementing Feed-forward Neural Networks
    1. Suggested reading - [A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
+   1. Binary classification using Keras - [Binary_Classification_Example.ipynb](https://colab.research.google.com/drive/1b8-SuAE41VyC8i9LEH81EVdBOYlYGW_y)
+   1. Regression using Keras - [Regression_Example.ipynb]()
 1. Chapter 18 Questions for Test 1 (Covers slides but not the .ipynb demos)
 1. Explainable AI
 
