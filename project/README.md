@@ -44,8 +44,8 @@
 
 # Report Evaluation Criterion
 1. [1 point] Effort to study the importance of each input feature (data analysis)
-    - For example, plot each input feature against output and document your findings
-1. [1 point] Effort to compare the results of the neural network with a linear regression or logistic regression model?
+    - For example, plot each input feature against output and discuss your findings
+1. [1 point] Effort to compare the results of the neural network with a linear regression or logistic regression model
     - Start with a basic model and then grow your model into a multi-layered model
     - Document your performance comparison
 1. [1 point] Effort to study performance difference when linear activation is used instead of sigmoid (and vice versa)?
