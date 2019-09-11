@@ -39,7 +39,7 @@
 1. [1 point] Discussion of how predictions on the test set will be evaluated
 1. [1 point] Discussion of the performance of the models will be improved
 1. [1 point] Effort to document all the steps above in Overleaf
-1. [2 * 2.5 points] Effort to provide clear and meaninful comments to others' proposals
+1. [2 * 2.5 points] Effort to provide clear and meaninful comments to others' proposals at least a few days before the submission deadline
 
 # Report Evaluation Criterion
 1. [1 point] Effort to study the importance of each input feature (data analysis)
@@ -59,7 +59,8 @@
    - Someone else must be able to reproduce all your results
 1. [1 point] Effort to document the challenges faced during the project
 1. [1 point] Effort to document all the steps above in Overleaf
-1. [2 * 2.5 points] Effort to provide clear and meaninful comments to others' reports
+1. [2 * 2.5 points] Effort to provide clear and meaninful comments to others' reports at least a few days before the submission deadline
+
 
 # Poster and Final Report Evaluation Criterion
 Poster and Final report will be evaluated based on all the criteria above.
