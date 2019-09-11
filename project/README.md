@@ -1,7 +1,8 @@
 # Project Expectations
-* All students will work on their projects individually (i.e. group submissions are not allowed)
+* You will work on your projects individually (i.e. group submissions are not allowed)
 * Proposal, Initial Report, and Final Report must be prepared using <a href="https://www.overleaf.com/">Overleaf</a> or any other LaTeX editor.
-* Your peers who review your report should be different from the peers who review your proposal
+* Your peers (that you choose) who review your report should be different from the peers who review your proposal
+* Each student will review at least two and at most four proposals. Same for reports.
 * Grades of Poster presentation and Final report will be average of (a) grades by the course instructor (b) peer grades, and (c) grades by external visitor/s from industry
 
 # Project Phases
