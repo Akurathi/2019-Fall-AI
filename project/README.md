@@ -38,7 +38,7 @@
 1. [1 point] Discussion of what kinds of neural network architectures will be tested
 1. [1 point] Discussion of how neural network models will be selected
 1. [1 point] Discussion of how predictions on the test set will be evaluated
-1. [1 point] Discussion of the performance of the models will be improved
+1. [1 point] Discussion of how the performance of the models will be improved
 1. [1 point] Effort to document all the steps above in Overleaf
 1. [2 * 2.5 points] Effort to provide clear and meaninful comments to others' proposals at least a few days before the submission deadline
 
