@@ -79,9 +79,9 @@ This schedule will be updated as the class progresses.
 | 05 | Sep 16, Mon | Revision for Test 1 |
 | 05 | Sep 18, Wed | **Test 1** (Covers Chapter 18) |
 | 06 | Sep 23, Mon | Chapter 1 |
-| 06 | Sep 25, Wed | Chapter 2 |
-| 07 | Sep 30, Mon | - |
-| 07 | Oct 02, Wed | - |
+| 06 | Sep 25, Wed | Chapter 2 & Chapter 3 |
+| 07 | Sep 30, Mon | Chapter 3 |
+| 07 | Oct 02, Wed | Chapter 3 |
 | 08 | Oct 07, Mon | - |
 | 08 | Oct 09, Wed | - |
 | 09 | Oct 14, Mon | - |
