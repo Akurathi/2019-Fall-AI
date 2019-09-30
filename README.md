@@ -75,7 +75,7 @@ This schedule will be updated as the class progresses.
 | - | - | Labor Day | 
 | 03 | Sep 04, Wed | Chapter 18 |
 | 04 | Sep 09, Mon | NN Examples - Binary Classification and Regression |
-| 04 | Sep 11, Wed | - |
+| 04 | Sep 11, Wed | Project Discussion |
 | 05 | Sep 16, Mon | Revision for Test 1 |
 | 05 | Sep 18, Wed | **Test 1** (Covers Chapter 18) |
 | 06 | Sep 23, Mon | Chapter 1 |
