@@ -104,7 +104,8 @@ This schedule will be updated as the class progresses.
 ## Course Policies
 
 ### General Policies
-* Keep yourself out of plagarism - Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html)
+* Keep yourself out of plagarism; Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html); Our 'turnitin' tool automatically checks for plagarism
+  <img src="supporting_files/turn-it-in.png" align="middle" width="150"/>  
 * Lecture recordings, audio or video, are not permitted
 * You are welcome to bring your laptop in class
 
