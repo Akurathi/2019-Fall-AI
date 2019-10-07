@@ -11,7 +11,7 @@ With your choice of programming language, implement the Breadth First Search alg
 <img src="map-romania.png" align="middle" width="450"/> 
 
 ## Homework 2 (Chapter 4)
-For the following game tree, show which nodes/sub-tree will be pruned by the Alpha-Beta pruning algorithm. Assume that the nodes are processed from left to right. Note that this is not a programming homework. You can solve it in paper, take a picture, and submit it at Canvas.
+For the following game tree, show which nodes/sub-tree will be pruned by the Alpha-Beta pruning algorithm. Assume that the nodes are processed from left to right. Note that this is not a programming homework. You can solve it in paper, take a picture, and submit it at Canvas.  
 <img src="alpha-beta.png" align="middle" width="450"/>
 
 ## Programming Homework 3 (Chapter 22) 
