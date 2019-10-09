@@ -16,7 +16,7 @@
 | Find Peers | Find at least two peers to review your proposal and Send requests to review | N/A | N/A |
 | Obtain Peer Reviews |Review others' proposals referring to "initial report evaluation criterion" and Obtain peer reviews from others | N/A | N/A |
 | Submit Initial Report (in Canvas) | Prepare initial report along with the following: <ol><li>two set of comments from peers</li><li>your plans to address the comments</li><li>two set of your comment to your peers</li></ol> | A PDF of your Overleaf report | Nov 6, 2019 |
-| Prepare and Submit Final Report (in Canvas) | A report (PDF) addressing all the comments received (along with rebuttals, if any) | N/A | Dec 2, 2019 |
+| Prepare and Submit Final Report (in Canvas) | A report (PDF) addressing all the comments received (along with rebuttals, if any) | N/A | Dec 8, 2019 (hard deadline, i.e. no extension allowed) |
 | Prepare Poster | A poster highlighting the problem, diagrams, your results, plots, etc. |  N/A | N/A | 
 | Present Poster and Report | Bring a printed copy of your Final Report and your Poster to the final exam | Prints | N/A | 
 
