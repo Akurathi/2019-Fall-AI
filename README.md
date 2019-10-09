@@ -82,8 +82,8 @@ This schedule will be updated as the class progresses.
 | 06 | Sep 25, Wed | Chapter 2 + Chapter 3 |
 | 07 | Sep 30, Mon | Chapter 3 |
 | 07 | Oct 02, Wed | Chapter 3 |
-| 08 | Oct 07, Mon | - |
-| 08 | Oct 09, Wed | - |
+| 08 | Oct 07, Mon | Chapter 3 + Chapter 5 |
+| 08 | Oct 09, Wed | Chapter 5 |
 | 09 | Oct 14, Mon | - |
 | 09 | Oct 16, Wed | - |
 | 10 | Oct 21, Mon | - |
@@ -94,12 +94,12 @@ This schedule will be updated as the class progresses.
 | 12 | Nov 06, Wed | - |
 | 13 | Nov 11, Mon | - |
 | 13 | Nov 13, Wed | - |
-| 14 | Nov 18, Mon | - |
-| 14 | Nov 20, Wed | - |
+| 14 | Nov 18, Mon | Revision for Test 2 |
+| 14 | Nov 20, Wed | **Test 2** (Covers all remaining chapters) |
 | - | - | Thanksgiving holiday |
-| - | Dec 02, Mon | **Poster Presentations - Monday, December 02 - 10AM to Noon at SSB218**  |
-| - | Dec 04, Wed | Revision for Final Exam |
-| - | Dec 09, Mon | **Final Exam - 10 AM to Noon at SSB 218** (Covers all remaining chapters) |  
+| - | Dec 02, Mon | - |
+| - | Dec 04, Wed | - |
+| - | Dec 09, Mon | **Poster Presentations - 10 AM to Noon at SSB 218** |  
 
 ## Course Policies
 
