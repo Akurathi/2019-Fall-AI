@@ -88,7 +88,7 @@ This schedule will be updated as the class progresses.
 | 09 | Oct 16, Wed | Chapter 6 |
 | 10 | Oct 21, Mon | Chapter 7 |
 | 10 | Oct 23, Wed | Chapter 7 |
-| 11 | Oct 28, Mon | - |
+| 11 | Oct 28, Mon | Chapter 7 + Chapter 22 |
 | 11 | Oct 30, Wed | - |
 | 12 | Nov 04, Mon | - |
 | 12 | Nov 06, Wed | - |
