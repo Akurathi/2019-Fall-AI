@@ -23,4 +23,37 @@ Given the number of web pages N = 3, and the damping parameter d = 0.7. For the 
 <img src="pagerank.png" align="middle" width="450"/>
 
 ## Programming Homework 5 (Chapter 24)  
-Implement convolution function!
+With `[one-channel.csv](one-channel.csv)` as input, complete the `convolution2D()` subroutine in the code below to get output shown.
+
+```python
+from google.colab import files
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+files.upload() # For Google Colab
+
+def convolution2D(image2D, kernel3x3):
+  # Write your code here
+
+image2D = np.loadtxt('one-channel.csv', delimiter=',')
+sns.heatmap(image2D, cmap='Greens')
+plt.show()
+
+edge_detect_filter_3x3 = np.array([[-1, -1, -1], [-1, 8, -1], [-1, -1, -1]])
+
+# Convolve once
+convolved_image = convolution2D(image2D, edge_detect_filter_3x3)
+
+sns.heatmap(convolved_image, cmap='Greens')
+plt.show()
+
+# Convolve again
+convolved_image = convolution2D(convolved_image, edge_detect_filter_3x3)
+
+sns.heatmap(convolved_image, cmap='Greens')
+plt.show()
+```
+[](1.png)
+[](2.png)
+[](3.png)
+
