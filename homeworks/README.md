@@ -23,7 +23,7 @@ Given the number of web pages N = 3, and the damping parameter d = 0.7. For the 
 <img src="pagerank.png" align="middle" width="450"/>
 
 ## Programming Homework 5 (Chapter 24)  
-The task here is to complete a programming task of detecting edges in a picture. The file `one-channel.csv` is one channel of the cat image we discussed in class. With `one-channel.csv` as input, complete the `convolution2D()` subroutine in the code below to get output shown. You will need to multiply each input pixel (3x3 neighbor grid) of the input 2D array `image2D` with the input filter `kernel3x3` to obtain the output 2D array `convolved2D`.
+The task here is to detect edges in an input image. The file `one-channel.csv` is one channel of the cat image we discussed in class. With `one-channel.csv` as input, complete the `convolution2D()` subroutine in the code below to get output shown. You will need to multiply each input pixel (3x3 neighbor grid) of the input 2D array `image2D` with the input filter `kernel3x3` to obtain the output 2D array `convolved2D`.
 
 ```python
 from google.colab import files
