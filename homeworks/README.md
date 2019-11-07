@@ -53,7 +53,7 @@ convolved_image = convolution2D(convolved_image, edge_detect_filter_3x3)
 sns.heatmap(convolved_image, cmap='Greens')
 plt.show()
 ```
-![](1.png)
-![](2.png)
+![](1.png)  
+![](2.png)  
 ![](3.png)
 
