@@ -23,7 +23,7 @@ Given the number of web pages N = 3, and the damping parameter d = 0.7. For the 
 <img src="pagerank.png" align="middle" width="450"/>
 
 ## Programming Homework 5 (Chapter 24)  
-With `[one-channel.csv](one-channel.csv)` as input, complete the `convolution2D()` subroutine in the code below to get output shown.
+With `one-channel.csv` as input, complete the `convolution2D()` subroutine in the code below to get output shown.
 
 ```python
 from google.colab import files
