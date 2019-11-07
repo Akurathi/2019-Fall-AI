@@ -15,11 +15,12 @@ For the following game tree, show which nodes/sub-tree will be pruned by the Alp
 <img src="alpha-beta.png" align="middle" width="450"/>
 
 ## Programming Homework 3 (Chapter 22) 
-WAP to calculate the BM25 score!
+A search query “Word1 Word2” is being scored against the following documents (see table). The document corpus (as shown in the table) only contains five documents. The number of times the words “Word1” and “Word2” appear in each of the documents is given in the table. The length of each document is also given. Assume k = 1.2 and b = 0.75. Write a (Python preferably) program to calculate the BM25 score for the query against all the documents and rank the documents by their BM25 score. Your program should read the table from a file, i.e. do not hardcode these values into your program. You may hardcode the values of k and b, but compute IDF, DF, TF, N, L, etc. using the data you read from the text file, at runtime. The scores you will obtain will range from -2.3 to -4.8. Note: You may get negative scores because of N being close to DF - you can read more [here](https://en.wikipedia.org/wiki/Okapi_BM25).  
+<img src="bm25.png" align="middle" width="450"/>
 
 ## Programming Homework 4 (Chapter 22) 
-Calculate the PageRanks!
+Given the number of web pages N = 3, and the damping parameter d = 0.7. For the network shown below, calculate the PageRank of the pages A, B, and C. Links between the pages are shown in the graph itself.  
+<img src="pagerank.png" align="middle" width="450"/>
 
 ## Programming Homework 5 (Chapter 24)  
 Implement convolution function!
-
