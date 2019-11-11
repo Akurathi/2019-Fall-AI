@@ -94,11 +94,11 @@ This schedule will be updated as the class progresses.
 | 12 | Nov 06, Wed | - |
 | 13 | Nov 11, Mon | - |
 | 13 | Nov 13, Wed | - |
-| 14 | Nov 18, Mon | Revision for Test 2 |
+| 14 | Nov 18, Mon | - |
 | 14 | Nov 20, Wed | **Test 2** (Covers all remaining chapters) |
 | - | - | Thanksgiving holiday |
-| - | Dec 02, Mon | - |
-| - | Dec 04, Wed | - |
+| - | Dec 02, Mon | Cancelled |
+| - | Dec 04, Wed | Cancelled |
 | - | Dec 09, Mon | **Poster Presentations - 10 AM to Noon at SSB 218** |  
 
 ## Course Policies
