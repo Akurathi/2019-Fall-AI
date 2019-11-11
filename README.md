@@ -90,15 +90,15 @@ This schedule will be updated as the class progresses.
 | 10 | Oct 23, Wed | Chapter 7 |
 | 11 | Oct 28, Mon | Chapter 7 + Chapter 22 |
 | 11 | Oct 30, Wed | Chapter 22 |
-| 12 | Nov 04, Mon | - |
-| 12 | Nov 06, Wed | - |
-| 13 | Nov 11, Mon | - |
+| 12 | Nov 04, Mon | Chapter 22 + Chapter 24 |
+| 12 | Nov 06, Wed | Chapter 24 + Chapter 25 |
+| 13 | Nov 11, Mon | Chapter 25 + Test2 Questions |
 | 13 | Nov 13, Wed | - |
-| 14 | Nov 18, Mon | Revision for Test 2 |
+| 14 | Nov 18, Mon | - |
 | 14 | Nov 20, Wed | **Test 2** (Covers all remaining chapters) |
 | - | - | Thanksgiving holiday |
-| - | Dec 02, Mon | - |
-| - | Dec 04, Wed | - |
+| - | Dec 02, Mon | Cancelled |
+| - | Dec 04, Wed | Cancelled |
 | - | Dec 09, Mon | **Poster Presentations - 10 AM to Noon at SSB 218** |  
 
 ## Course Policies
