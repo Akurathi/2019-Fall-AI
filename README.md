@@ -92,7 +92,7 @@ This schedule will be updated as the class progresses.
 | 11 | Oct 30, Wed | Chapter 22 |
 | 12 | Nov 04, Mon | Chapter 22 + Chapter 24 |
 | 12 | Nov 06, Wed | Chapter 24 + Chapter 25 |
-| 13 | Nov 11, Mon | Chapter 25 + Test2 Questions |
+| 13 | Nov 11, Mon | Chapter 25 + Discuss Test2 Questions |
 | 13 | Nov 13, Wed | - |
 | 14 | Nov 18, Mon | - |
 | 14 | Nov 20, Wed | **Test 2** (Covers all remaining chapters) |
